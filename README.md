@@ -25,8 +25,8 @@ I'm Khaldoun Fakhfekh from Tunisia 🇹🇳
 ## 🔥 My Stats :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbnKhhaldounXCIX&show_icons=true&theme=radical" alt="Khaldoun's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnKhhaldounXCIX&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IbnKhaldounXCIX&show_icons=true&theme=radical" alt="Khaldoun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnKhaldounXCIX&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
